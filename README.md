@@ -62,7 +62,7 @@ Tôi là một [Chức danh/Nghề nghiệp của bạn] với niềm đam mê [
 <a href="https://fb.com/[username-facebook-của-bạn]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="[username-facebook-của-bạn]" height="30" width="40" /></a>
 <a href="https://twitter.com/[username-twitter-của-bạn]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[username-twitter-của-bạn]" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/[user-id-của-bạn]/[username-của-bạn]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="[username-của-bạn]" height="30" width="40" /></a>
-<a href="https://dev.to/[username-devto-của-bạn]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="[username-devto-của-bạn]" height="30" width="40" /></a>
 </p>
+<img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake" />
 
 ---
