@@ -1,8 +1,10 @@
 # 👋 Xin chào, tôi là [Tên của bạn]!
+![Currently learning](https://img.shields.io/badge/Currently_learning-Rust-orange?style=for-the-badge&logo=rust)
+<img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake" />
 
 <p align="left">
-  <a href="https://github.com/your-username">
-    <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
+  <a href="https://github.com/nbngoc123nbngoc123">
+    <img src="https://komarev.com/ghpvc/?username=nbngoc123&label=Profile%20views&color=0e75b6&style=flnbngoc123" />
   </a>
 </p>
 
@@ -63,6 +65,5 @@ Tôi là một [Chức danh/Nghề nghiệp của bạn] với niềm đam mê [
 <a href="https://twitter.com/[username-twitter-của-bạn]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[username-twitter-của-bạn]" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/[user-id-của-bạn]/[username-của-bạn]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="[username-của-bạn]" height="30" width="40" /></a>
 </p>
-<img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake" />
 
 ---
